@@ -1,6 +1,6 @@
 # pycounts2
 
-Calculate word counts in a text file!!
+Calculate word counts in a text file!!!
 
 [![codecov](https://codecov.io/github/meagangardner/pycounts2/graph/badge.svg?token=W2YVPYM67T)](https://codecov.io/github/meagangardner/pycounts2)
 
