@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.3.0 (2025-01-24)
+
+### Features
+
+- Updated pyproject.toml
+  ([`91df3eb`](https://github.com/meagangardner/pycounts2/commit/91df3eb2b9dcdd91885aa40d70ae36d463f82f59))
+
+
 ## v0.2.0 (2025-01-24)
 
 ### Features
